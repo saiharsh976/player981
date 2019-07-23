@@ -1,2 +1,2 @@
-txt="aabbcc"[::-1]
-print(txt)
+txt=input()
+print(txt[::-1])
