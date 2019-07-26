@@ -1,4 +1,4 @@
-nimu,pri=map(str,input.split())
+nimu,pri=map(str,input().split())
 if(len(nimu)!=len(pri)):
     print("no")
 else:
